@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(45, 111, 100);
+}
+.form_title{
+    margin-left: 35rem;
+}
+.regform{
+    height: 35rem;
+    width: 27rem;
+    background-color: rgb(140, 200, 43);
+    margin-top: 3rem;
+    margin-left: 33rem;
+    margin-right: 8rem;
+    border-radius: 10px;
+}
+.textlabel{
+    display: block;
+    margin-left: 1rem;
+    margin-top: .3rem;
+}
+input{
+    margin-left: 1rem;
+    width: 90%;
+    font-size: 1.5em;
+    border: 1.5px solid black;
+    margin-top: .3rem;
+}
+
+textarea{
+    margin-left: 1rem;
+    width: 90%;
+    font-size: 1em;
+    border: 1.5px solid black;
+    margin-top:.3rem;
+}
+
+select{
+    margin-left: 1rem;
+    width: 90%;
+    font-size: 1.2em;
+}
+
+button{
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+    width: 90%;
+    font-size: 1.2em;
+    border-radius: 40px;
+    background-color: rgb(0, 30, 128);
+    color: aliceblue;
+}
